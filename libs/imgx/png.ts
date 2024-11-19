@@ -1,4 +1,4 @@
-import { renderAsync } from "@resvg/resvg-js";
+import { renderAsync } from "npm:@resvg/resvg-js@2.6.2";
 
 import type { ComponentChildren } from "preact";
 
