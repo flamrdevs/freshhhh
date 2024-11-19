@@ -30,13 +30,11 @@
     "tailwindcss/plugin": "npm:/tailwindcss@3.4.1/plugin.js",
 
     "satori": "npm:satori@0.11.3",
-    "resvg": "npm:/@resvg/resvg-js@2.6.2",
 
     "~/libs/": "./libs/"
   },
   "compilerOptions": {
     "jsx": "react-jsx",
     "jsxImportSource": "preact"
-  },
-  "nodeModulesDir": true
+  }
 }
